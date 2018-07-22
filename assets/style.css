@@ -1,0 +1,101 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Mada', sans-serif;
+    
+    }
+
+.html-links {
+    color: white;
+}
+
+.portfolio-links {
+    color: black;
+}
+
+.about-links {
+    color: white;
+}
+
+body {
+    
+    
+    /* background-image: url('../background.jpg'); */
+    background-image: url('https://images.pexels.com/photos/433604/pexels-photo-433604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    /* filter: grayscale(100%); */
+    /* opacity: 0.8; */
+    /* background-color: #C2B9B0; */
+    }
+    
+.jumbo-title {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.jumbo-subtitle {
+
+    text-align: center;
+    /* font-weight: bold; */
+    font-size: 40px;
+    color: white;
+}
+
+
+.navbar {
+    padding-top: 0px;
+    color: white;
+    
+}
+
+
+
+.jumbotron {
+    opacity: 1; 
+    background-color: transparent;
+    padding-bottom: 2em;
+
+}
+
+.card {
+    opacity: 0.75;
+    margin-bottom: 2em;
+}
+
+.top-jumbo {
+
+    padding-top: 10px;
+    /* background-image: url("https://cdn.pixabay.com/photo/2017/01/18/16/46/hong-kong-1990268_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;   */
+}
+
+.top-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.site-cards {
+    width: 100px;
+    height: 200px;
+    
+}
+
+label {
+
+    color:white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+button {
+    float: right;
+    background-color: #E7717D;
+    padding: 20px;
+}
